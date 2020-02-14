@@ -7,6 +7,6 @@ The course will focus on data analysis (with emphasis on regressions) using Pyth
 
 Professor: Daniel Rodriguez
 
-Graduate Student Instructors: Gabriela Aguilar & Shannon McCarthy
+Graduate Student Instructors: Gabriela Picado-Aguilar & Shannon McCarthy
 
 Folder Owner: Shannon McCarthy
